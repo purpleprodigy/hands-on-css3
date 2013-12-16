@@ -1,0 +1,17 @@
+/*
+Theme Name: Hands-on
+Theme URI: http://www.css.maxdesign.com
+Description: A responsive ecommerce theme.
+Version: 1.0
+Author: Max Design
+Author URI: http://www.maxdesign.com
+*/
+
+#edd_cc_address #edd-card-address-wrap,
+#edd_cc_address #edd-card-address-2-wrap,
+#edd_cc_address #edd-card-city-wrap,
+#edd_cc_address #edd-card-zip-wrap,
+#edd_cc_address #edd-card-state-wrap 
+{
+    display: none;
+}

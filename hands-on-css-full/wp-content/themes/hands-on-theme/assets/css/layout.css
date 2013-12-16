@@ -1,0 +1,133 @@
+/* -----------------------------------
+layout
+----------------------------------- */
+
+.bfc,.row,.container, .text-widget
+{
+	overflow: hidden;
+	_overflow: visible;
+	zoom: 1;
+}
+
+.row { clear: both; }
+
+.row
+{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.row-padding
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.row-padding-small
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.container
+{
+	margin: 0 auto;
+	max-width: 750px;
+}
+
+.product .container
+{
+	margin: 0 auto;
+	max-width: 940px;
+}
+
+.main,.aside { padding-bottom: 30px; }
+
+/* -----------------------------------
+small
+----------------------------------- */
+
+@media (min-width:500px)
+{
+	.banner
+	{
+		background-image: url(../img/banner.jpg);
+		background-repeat: no-repeat;
+		background-position: 50% 0;
+	}
+	
+	.product .banner
+	{
+		background-image: url(../img/banner.jpg);
+		background-repeat: no-repeat;
+		background-position: 50% 50%;
+	}
+}
+
+/* -----------------------------------
+medium
+----------------------------------- */
+
+@media (min-width:700px)
+{
+	.row
+	{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	
+	.row-padding
+	{
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+	
+	.row-padding-small
+	{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	}
+	
+	.main,.aside { padding-bottom: 40px;}
+	
+	.main
+	{
+		float: left;
+		width: 65%;
+		padding-bottom: 40px;
+	}
+	
+	.aside
+	{
+		float: right;
+		width: 30%;
+	}
+}
+
+/* -----------------------------------
+wide
+----------------------------------- */
+
+@media (min-width:1000px)
+{
+	.row
+	{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.row-padding
+	{
+		padding-top: 85px;
+		padding-bottom: 85px;
+	}
+	
+	.row-padding-small
+	{
+		padding-top: 40px;
+		padding-bottom: 40px;
+	}
+
+	.main,.aside { padding-bottom: 85px;}
+
+}

@@ -1,0 +1,82 @@
+--------------
+Title: 
+--------------
+Build Your First responsive website
+
+--------------
+Description:
+--------------
+Have you always wanted to learn how to builds Responsive Websites? If so, this course is for you. Over the course of eight lessons we will gradually build a complex Responsive Web Design site, from start to finish.
+
+This course will teach you an overall strategy that will allow you to build all sorts of Responsive websites. 
+
+With each lesson, we will tackle a new problem, with hands-on coding exercises - gradually building our website, step by step.
+
+Total time: 154 mins
+
+--------------
+Who is this course for?
+--------------
+This course is for web designers and developers who want to learn how to build sites using Responsive Web Design. You only need to have a basic understanding of CSS in order to do the course.
+
+--------------
+What you will learn?
+--------------
+In this course, you’ll gain the skills and knowledge to build Responsive websites including an understanding of key concepts such as Responsive Web Design, Mobile First, breakpoints and more
+
+Over the course of 8 lessons, you will learn how to:
+- Create the responsive grid
+- Style layout components such as fixed headers and banner images
+- Build a responsive form
+- Solve responsive tables
+- Style a responsive navigation menu
+
+--------------
+Contents:
+--------------
+Lesson 1: Overview of RWD, our project, the folder and files
+Duration: 21:29 minutes
+This lesson covers key concepts such as Responsive Web Design, Mobile first and breakpoints. We will also review our finished example, and explore the example folder and files.
+
+Lesson 2: An introduction to media queries, and responsive font sizes
+Duration: 23:50 minutes
+This lesson is all about media queries. We will look at how media queries are written and applied. We will then set up the font-sizes for our sample website.
+
+Lesson 3: Fluid images and styling buttons
+Duration: 15:15 minutes
+In this lesson we will learn how to create fluid images, including work arounds for older browsers. We will also learn how to style action buttons.
+
+Lesson 4: Creating the responsive grid
+Duration: 25:06 minutes
+In this lesson we will explore the strengths and weaknesses of using existing frameworks. We will then create our own simple responsive framework.
+
+Lesson 5: Styling the header, banner and footer
+Duration: 18:56 minutes
+In this lesson we will style some of the more complex aspects of the layout - the banner, the contact area and the header.
+
+Lesson 6: Building the responsive form
+Duration: 16:13 minutes
+In this lesson we will learn how to create a responsive form - including wide and narrow options.
+
+Lesson 7: Solving the responsive tables
+Duration: 12:29 minutes
+In this lesson we will review a range of existing responsive table solutions. We will then learn how to create a simple and effective responsive table.
+
+Lesson 8: Making the navigation responsive
+Duration: 20:37 minutes
+In this lesson we will create a responsive navigation solution that can tuck away at small screen.
+
+--------------
+Files:
+--------------
+Lesson01.mov
+Lesson02.mov
+Lesson03.mov
+Lesson04.mov
+Lesson05.mov
+Lesson06.mov
+Lesson07.mov
+Lesson08.mov
+start.zip
+finished.zip
+resources.txt
