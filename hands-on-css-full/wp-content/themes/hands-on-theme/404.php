@@ -1,4 +1,18 @@
-<?php get_header(); ?>
+<body class="product">
+ <!-- header -->
+<div class="row bg-color2 header">
+	<div class="container ptb-h">
+		<img src="<?php echo IMAGES; ?>/logo.png" alt="Max Design">
+	</div>
+</div>
+<!-- banner -->
+<div class="row row-padding-small bg-color2 banner">
+	<div class="container">
+		<h1>
+			<span class="color14">Hands-on</span> <span class="color13">CSS</span>
+		</h1>
+	</div>
+</div>
 
 <div class="row row-padding bg-color10">
   <div class="container">
